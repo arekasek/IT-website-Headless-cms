@@ -1,0 +1,71 @@
+{
+  "bottomNavLinks": [
+    {
+      "category": "Contact",
+      "links": [
+        {
+          "label": "Call Us",
+          "link": "/poczta",
+          "id": "66942e8b07306eacbdeefeaa"
+        },
+        {
+          "label": "Location",
+          "link": "/location",
+          "id": "66944345449e5f26aa026c80"
+        },
+        {
+          "label": "Phone-number",
+          "link": "/number",
+          "id": "6694435b449e5f26aa026c81"
+        }
+      ],
+      "id": "66942cc51aab465621af1688"
+    },
+    {
+      "category": "Social media",
+      "links": [
+        {
+          "label": "Facebook",
+          "link": "https://www.facebook.com/",
+          "id": "6694450bd25e908a67d6ae82"
+        },
+        {
+          "label": "Instagram",
+          "link": "https://www.instagram.com/",
+          "id": "6694451cd25e908a67d6ae83"
+        },
+        {
+          "label": "LinkedIN",
+          "link": "https://pl.linkedin.com/",
+          "id": "6694452bd25e908a67d6ae84"
+        }
+      ],
+      "id": "66944500d25e908a67d6ae81"
+    },
+    {
+      "category": "Career",
+      "links": [
+        {
+          "label": " Offer",
+          "link": "/Offer",
+          "id": "669446d307153793eb355aa7"
+        },
+        {
+          "label": "Send CV",
+          "link": "#",
+          "id": "6694470407153793eb355aa8"
+        },
+        {
+          "label": "For students",
+          "link": "/For-students",
+          "id": "6694478807153793eb355aa9"
+        }
+      ],
+      "id": "669446cb07153793eb355aa6"
+    }
+  ],
+  "globalType": "footer",
+  "createdAt": "2024-07-14T19:45:31.391Z",
+  "updatedAt": "2024-07-14T21:48:11.512Z",
+  "id": "66942adbbe409648c6ac6371"
+}

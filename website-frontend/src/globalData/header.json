@@ -1,0 +1,42 @@
+{
+  "navLinks": [
+    {
+      "label": "Home",
+      "link": "/test",
+      "id": "668fde96168d1c6417413b59"
+    },
+    {
+      "label": "Services",
+      "link": "/Services",
+      "id": "668fdeac168d1c6417413b5a"
+    },
+    {
+      "label": "Pricing",
+      "link": "/Pricing",
+      "id": "66912325473f4e6461266919"
+    },
+    {
+      "label": "Blog",
+      "link": "/Blog",
+      "id": "66941809ba14f46db053724c"
+    }
+  ],
+  "globalType": "header",
+  "createdAt": "2024-07-11T13:31:43.349Z",
+  "updatedAt": "2024-07-15T19:57:37.225Z",
+  "logo": {
+    "id": "669122fe1baee50bc7e87e60",
+    "alt": "It-logo",
+    "filename": "it-logo-76626EF287-seeklogo.com.png",
+    "mimeType": "image/png",
+    "filesize": 4546,
+    "width": 300,
+    "height": 294,
+    "focalX": 50,
+    "focalY": 50,
+    "createdAt": "2024-07-12T12:35:10.275Z",
+    "updatedAt": "2024-07-12T12:35:10.275Z",
+    "url": "http://localhost:4000/media/it-logo-76626EF287-seeklogo.com.png"
+  },
+  "id": "668fdebf32736e2eba5739af"
+}

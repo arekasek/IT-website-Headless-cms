@@ -1,0 +1,84 @@
+{
+  "menuItems": [
+    {
+      "icon": {
+        "id": "6695767222410e4ce45a79f4",
+        "alt": "Linkedin-contact",
+        "filename": "61109-1.png",
+        "mimeType": "image/png",
+        "filesize": 15573,
+        "width": 512,
+        "height": 512,
+        "focalX": 50,
+        "focalY": 50,
+        "createdAt": "2024-07-15T19:20:18.323Z",
+        "updatedAt": "2024-07-15T19:20:18.323Z",
+        "url": "http://localhost:4000/media/61109-1.png"
+      },
+      "link": "/linkedin",
+      "text": "Linkedin",
+      "id": "66957bb39449cd0344a6f1c1"
+    },
+    {
+      "icon": {
+        "id": "6695838b7de5a86ce4301cad",
+        "alt": "Facebook-contact",
+        "filename": "facebook-app-round-white-icon.png",
+        "mimeType": "image/png",
+        "filesize": 3716,
+        "width": 512,
+        "height": 512,
+        "focalX": 50,
+        "focalY": 50,
+        "createdAt": "2024-07-15T20:16:11.689Z",
+        "updatedAt": "2024-07-15T20:16:11.689Z",
+        "url": "http://localhost:4000/media/facebook-app-round-white-icon.png"
+      },
+      "link": "Facebook.com",
+      "text": "Facebook",
+      "id": "66957e6973b91f1d86018f0a"
+    },
+    {
+      "icon": {
+        "id": "669585157de5a86ce4301cef",
+        "alt": "Instagram",
+        "filename": "pngfind.com-instagram-png-22629.png",
+        "mimeType": "image/png",
+        "filesize": 31446,
+        "width": 974,
+        "height": 981,
+        "focalX": 50,
+        "focalY": 50,
+        "createdAt": "2024-07-15T20:22:45.684Z",
+        "updatedAt": "2024-07-15T20:22:45.684Z",
+        "url": "http://localhost:4000/media/pngfind.com-instagram-png-22629.png"
+      },
+      "link": "Instagram.com",
+      "text": "Instagram",
+      "id": "6695850bea02ec2eb53fe3f1"
+    },
+    {
+      "icon": {
+        "id": "669586097de5a86ce4301cfb",
+        "alt": "e-mail-logo",
+        "filename": "523-5238950_email-icon-email-icon-round-white-png-transparent.png",
+        "mimeType": "image/png",
+        "filesize": 53139,
+        "width": 940,
+        "height": 940,
+        "focalX": 50,
+        "focalY": 50,
+        "createdAt": "2024-07-15T20:26:49.239Z",
+        "updatedAt": "2024-07-15T20:26:49.239Z",
+        "url": "http://localhost:4000/media/523-5238950_email-icon-email-icon-round-white-png-transparent.png"
+      },
+      "link": "e-mail",
+      "text": "e-mail",
+      "id": "669585f7ea02ec2eb53fe3f2"
+    }
+  ],
+  "globalType": "sidebar",
+  "createdAt": "2024-07-15T19:43:07.710Z",
+  "updatedAt": "2024-07-15T20:28:13.455Z",
+  "id": "66957bcb042f0f087489884a"
+}
