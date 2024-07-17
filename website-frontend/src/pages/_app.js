@@ -2,6 +2,7 @@ import Header from "@/blocks/global/Header";
 import "@/styles/globals.css";
 import axios from "axios";
 import Footer from "@/blocks/global/Footer";
+import Sidebar from "@/blocks/global/Sidebar";
 
 axios.defaults.baseURL = process.env.NEXT_PUBLIC_BACKEND_URL;
 axios.defaults.headers.post["Content-Type"] = "application/json";
@@ -17,6 +18,7 @@ export default function App({ Component, pageProps }) {
           <Component {...pageProps} />
         </div>
       </div>
+      <Sidebar></Sidebar>
       <Footer />
     </>
   );

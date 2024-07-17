@@ -1,13 +1,11 @@
-import Hero from "./Hero";
+import PricingBlock from "./PricingBlock";
 import SimpleRichText from "./SimpleRichText";
 import BlogPost from "./BlogPost";
-import Sidebar from "../blocks/global/Sidebar";
 
 const blocks = {
-  hero: Hero,
+  pricingBlock: PricingBlock,
   blogPost: BlogPost,
   simpleRichText: SimpleRichText,
-  sidebar: Sidebar,
 };
 
 export default blocks;

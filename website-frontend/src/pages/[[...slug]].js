@@ -33,7 +33,7 @@ export const getStaticProps = async (ctx) => {
 
   return {
     props: {
-      page: pageData,
+      page: pageData.docs[0],
     },
   };
 };

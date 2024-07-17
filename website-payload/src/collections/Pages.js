@@ -1,7 +1,6 @@
 import { SimpleRichText } from "../blocks/SimpleRichText";
-import { Hero } from "../blocks/Hero";
+import { PricingBlock } from "../blocks/PricingBlock";
 import { BlogPost } from "../blocks/BlogPost";
-import { Sidebar } from "../globals/Sidebar";
 
 export const Pages = {
   slug: "pages",
@@ -11,6 +10,13 @@ export const Pages = {
   },
   access: {
     read: () => true,
+  },
+  hooks: {
+    afterChange: [
+      ({ doc }) => {
+        revalidatePage(doc.slug);
+      },
+    ],
   },
   fields: [
     {
@@ -29,7 +35,7 @@ export const Pages = {
       name: "layout",
       label: "Layout",
       type: "blocks",
-      blocks: [Hero, BlogPost, SimpleRichText],
+      blocks: [PricingBlock, BlogPost, SimpleRichText],
     },
   ],
 };
